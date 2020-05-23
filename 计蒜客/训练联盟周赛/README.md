@@ -35,3 +35,21 @@
 
 第十二场：ICPC North America Qualifier Contest 2015
 链接：https://www.jisuanke.com/contest/7197
+
+第十三场：UCF Local Programming Contest 2015（Practice）
+链接：https://www.jisuanke.com/contest/8630
+
+第十四场：ICPC Greater New York Region 2019
+链接：https://www.jisuanke.com/contest/7198
+
+第十五场：ICPC North Central NA Contest 2018
+链接：https://www.jisuanke.com/contest/8976
+
+第十六场：ICPC Pacific Northwest Regional Contest 2019
+链接：https://www.jisuanke.com/contest/8291
+
+第十七场：ICPC North Western European Regional Contest 2019
+链接：https://www.jisuanke.com/contest/9343
+
+第十八场：ICPC Central Europe Regional Contest 2019
+链接：https://www.jisuanke.com/contest/8944
